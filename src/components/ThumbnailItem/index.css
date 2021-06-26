@@ -1,0 +1,17 @@
+.list-item-container {
+  list-style-type: none;
+}
+.button {
+  background-color: transparent;
+  border: 0px;
+}
+.thumbnail-active {
+  height: 40px;
+  width: 60px;
+  opacity: 1;
+}
+.thumbnail {
+  height: 40px;
+  width: 60px;
+  opacity: 0.5;
+}

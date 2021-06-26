@@ -1,0 +1,31 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-container {
+  text-align: center;
+}
+.images {
+  height: 60vh;
+  width: 60vw;
+}
+.heading {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 27px;
+  color: #1e293b;
+}
+.paragraph {
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 15px;
+  color: #64748b;
+}
+
+.thumbnail-img-container {
+  display: flex;
+  margin-left: 0px;
+}
